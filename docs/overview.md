@@ -19,9 +19,11 @@ This module owns an I/O boundary. It creates or adapts Gnalloy Channels for a co
 - `gnalloy.org/transport-raw` (`raw`)
 
 ## Direct Gnalloy Dependencies
+
 - `gnalloy.org/gnalloy`
 
-## Direct Dependents in the Current Module Plan
+## Direct Dependents in the Current Repository Set
+
 - `gnalloy.org/codec-icmp`
 - `gnalloy.org/codec-ip`
 - `gnalloy.org/examples`

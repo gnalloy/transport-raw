@@ -19,9 +19,11 @@ Gnalloy Raw IP 协议传输，提供 Packet 消息和显式特权运行边界。
 - `gnalloy.org/transport-raw`（`raw`）
 
 ## 直接 Gnalloy 依赖
+
 - `gnalloy.org/gnalloy`
 
-## 当前模块规划中的直接下游
+## 当前仓库集合中的直接下游
+
 - `gnalloy.org/codec-icmp`
 - `gnalloy.org/codec-ip`
 - `gnalloy.org/examples`
